@@ -79,7 +79,7 @@ A user-friendly scheduling and community web application designed for LGBTQ+ sen
 ### 🔊 Denoising Speech with MathWorks
 
 **Machine Learning for Audio Processing | Break Through Tech AI Program**
-🔗 *GitHub:* [Denoising Speech with MathWorks]([https://github.com/acabochan/denoising-speech-mathworks](https://github.com/BTTAI-9/Team-9))
+🔗 *GitHub:* [Denoising Speech with MathWorks](https://github.com/BTTAI-9/Team-9)
 
 A deep learning project focused on suppressing background noise from speech signals using a CNN-LSTM model.
 
